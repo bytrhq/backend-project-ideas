@@ -133,7 +133,7 @@ This document presents a comprehensive collection of backend project ideas, syst
 
 **Real-World Application:** Weather services are used in mobile apps, travel planning, and environmental monitoring.
 
-- ### Library Management System
+-- ### Library Management System
 
 **Description:** Develop a simple backend for a library management system where users can manage books, authors, and borrowers. This project covers relational data management and basic operations on different datasets.
 
